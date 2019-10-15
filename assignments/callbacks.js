@@ -51,7 +51,7 @@ function last(arr, cb) {
   return cb(arr[arr.length-1]);
 }
 last(arr[arr.length -1 => {
-  console.log()
+  console.log() 
 });
 
 function sumNums(x, y, cb) {
